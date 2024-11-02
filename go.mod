@@ -1,4 +1,4 @@
-module wasd0/is-common
+module github.com/wasd0/is-common
 
 go 1.23.1
 

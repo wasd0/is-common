@@ -3,13 +3,13 @@ package zero
 import (
 	"context"
 	"fmt"
+	"github.com/wasd0/is-common/pkg/app"
+	"github.com/wasd0/is-common/pkg/config"
+	"github.com/wasd0/is-common/pkg/logger"
+	"github.com/wasd0/is-common/pkg/utils"
 	"io"
 	"os"
 	"time"
-	"wasd0/is-common/pkg/app"
-	"wasd0/is-common/pkg/config"
-	"wasd0/is-common/pkg/logger"
-	"wasd0/is-common/pkg/utils"
 
 	"github.com/rs/zerolog"
 )

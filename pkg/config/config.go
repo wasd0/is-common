@@ -3,9 +3,9 @@ package config
 import (
 	"github.com/ilyakaznacheev/cleanenv"
 	"github.com/joho/godotenv"
+	"github.com/wasd0/is-common/pkg/consts"
 	"os"
 	"time"
-	"wasd0/is-common/pkg/consts"
 )
 
 const (

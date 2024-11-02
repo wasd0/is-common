@@ -3,9 +3,9 @@ package app
 import (
 	"context"
 	"fmt"
+	"github.com/wasd0/is-common/pkg/logger"
 	"strings"
 	"sync"
-	"wasd0/is-common/pkg/logger"
 )
 
 type Callback func(context.Context) error
